@@ -9,7 +9,8 @@ public class xifan : MonoBehaviour
     {
  //HEAD
         print("2023/3/15 HAHAHAHA!!!");
-//
+        print("2023/3/15 HAHAHAHA~~~~~~~~~~!!!");
+        //
         print("2023/3/15 work" +
             "2023/315 work" +
             "");
