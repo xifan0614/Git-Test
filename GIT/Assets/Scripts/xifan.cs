@@ -11,6 +11,7 @@ public class xifan : MonoBehaviour
         print("2023/3/15 HAHAHAHA!!!");
         print("2023/3/15 HAHAHAHA~~~~~~~~~~!!!");
         print("2023/3/15 HAHAHAHA~~ru;4u4mf06~~!!!");
+        print("xdd")
         //
         print("2023/3/15 work" +
             "2023/315 work" +
